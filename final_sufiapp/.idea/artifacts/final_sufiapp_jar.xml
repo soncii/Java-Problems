@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="final_sufiapp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/final_sufiapp_jar</output-path>
+    <root id="archive" name="final_sufiapp.jar">
+      <element id="module-output" name="final_sufiapp" />
+    </root>
+  </artifact>
+</component>
